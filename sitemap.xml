@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+    <url>
+        <loc>https://bhtwnewsyahoo.tw/%E4%BC%AF%E8%8F%AF%E6%8A%95%E8%B3%87%E6%A6%AE%E7%8D%B2%E3%80%8C2024%E5%B9%B4%E4%BA%9E%E6%B4%B2%E6%9C%80%E4%BD%B3%E6%8A%95%E8%B3%87%E6%A9%9F%E6%A7%8B%E7%8D%8E%E3%80%8D.html</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-03-08</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+    <url>
+        <loc>https://bhtwnewsyahoo.tw/</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-03-08</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+</urlset>
